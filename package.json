@@ -1,0 +1,18 @@
+{
+  "name": "data-camp-api",
+  "version": "1.0.0",
+  "description": "test dataCamp",
+  "main": "breaking-bad.js",
+  "scripts": {
+    "test": "jest --coverage=true"
+  },
+  "author": "michPl <plehanov_michael@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "jest": "^26.4.2"
+  }
+}
